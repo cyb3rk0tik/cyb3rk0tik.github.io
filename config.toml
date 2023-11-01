@@ -1,5 +1,5 @@
 # Be sure to change these!
-base_url = "/"
+base_url = "https://cyb3rk0tik.github.io/"
 title = "Уголок Киберкотика"
 theme = "terminimal"
 # Sass compilation is required
